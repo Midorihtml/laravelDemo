@@ -1,6 +1,6 @@
-compose config laravel 8 artisan
+# compose config laravel 8 artisan
 
-## environment variable mysql
+#### environment variable mysql
 
 * DB_HOST=
 * DB_PORT=
